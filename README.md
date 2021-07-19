@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lingling68
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning neural network
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on statistical machine learning models
 - 📫 How to reach me ...
 
 <!---
